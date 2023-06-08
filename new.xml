@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personal>
+ <Name>Anzhelika</Name>
+ <Surname>Melnik</Surname>
+ <Age>27</Age>
+  <Animals>Cat</Animals>
+  <CatName>Markiz</CatName>
+  <CatAge>15</CatAge>
+   <Salary>2000 euro</Salary>
+</personal>
